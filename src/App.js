@@ -1,17 +1,22 @@
 import React from "react";
-import Navbar from "./components/NavBar";
-import Header from "./components/Header";
-import Card from "./components/Card";
 
-// In our main App component, we are rendering only single instances of Header and Navbar and several instances of Card
+import NavBar from "./components/NavBar";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Skills from "./components/Skills";
+import CV from "./components/CV";
+import Contact from "./components/Contact";
+
+// Render single instances of each component
 function App() {
   return (
-    <div>
-      <Header />
-      <Navbar />
-      <Card />
-      <Card />
-      <Card />
+    <div className="text-gray-400 bg-gray-900 body-font">
+      <NavBar />
+      <About />
+      <Projects />
+      <Skills />
+      <CV />
+      <Contact />
     </div>
   );
 }
