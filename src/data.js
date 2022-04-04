@@ -11,28 +11,47 @@ export const projects = [
   },
   {
     title: "JavaScript Quiz Game",
-    subtitle: "React and Python",
+    subtitle: "JavaScript",
     description:
       "Challenge your knowledge of JavaScript with this engaging quiz! You can keep score which saves locally to your device.",
-    image: "./project-2.gif",
-    repoLink: "",
-    link: "https://reedbarger.com",
+    image: "../images/quiz-game.png",
+    repoLink: "https://github.com/chandrapanda/squidQuizGame",
+    link: "https://chandrapanda.github.io/squidQuizGame/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Promising Portfolio",
+    subtitle: "HTML and CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://jsbootcamp.com",
+      "An example of my static portfolio. See some of my design skills using vanilla HTML and CSS.",
+    image: "../images/portfolio1.png",
+    repoLink: "https://github.com/chandrapanda/promising-portfolio",
+    link: "https://chandrapanda.github.io/promising-portfolio/",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Habit Tracker",
+    subtitle: "JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
+      "Track your dietary, physical, and mental health by utilizing this habit application! Users can select from a variety of habits and check out their habit history on an intuitive, dynamic chart. This application is deployed to Heroku. To see the application, scroll to LINKS and click the Heroku button!",
+    image: "../images/habit-tracker.png",
+    repoLink: "https://github.com/chandrapanda/happy-habit-tracker",
+    link: "https://happy-habit-tracker-app.herokuapp.com/",
+  },
+  {
+    title: "Never Get Bored",
+    subtitle: "JavaScript",
+    description:
+      "Fend off inevitable boredom with this application featuring multiple third-party API calls! You can view pictures of adorable puppies, read some interesting facts about cats, and enjoy Chuck Norris Jokes. You can even save your favorite pictures/facts/jokes for later viewing.",
+    image: "../images/not-bored.png",
+    repoLink: "https://github.com/chandrapanda/MXC-team",
+    link: "https://chandrapanda.github.io/MXC-team/",
+  },
+  {
+    title: "Rad Regex Tutorial",
+    subtitle: "Gist",
+    description: "Learn about Regex in this rad tutorial I wrote.",
+    image: "../images/regex.png",
+    repoLink: "https://gist.github.com/chandrapanda",
+    link: "https://gist.github.com/chandrapanda/6f4c7f81da2e55a4febbb3fe6943c335",
   },
 ];
 
