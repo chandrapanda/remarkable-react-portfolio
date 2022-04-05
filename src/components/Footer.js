@@ -1,4 +1,4 @@
-import { UserCircleIcon } from "@heroicons/react/solid";
+import { ArrowCircleUpIcon, UserCircleIcon } from "@heroicons/react/solid";
 import React from "react";
 
 function Footer() {
@@ -36,6 +36,10 @@ function Footer() {
           rel="noreferrer noopener"
         >
           Twitter
+        </a>
+        <ArrowCircleUpIcon className="mx-auto inline-block w-10 mb-4" />
+        <a href="#about" className="ml-3 text-xl">
+          Back to Top
         </a>
       </div>
     </footer>
