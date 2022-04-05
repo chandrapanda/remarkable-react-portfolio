@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/remarkable-react-portfolio/static/css/main.9b81deb6.css",
-    "main.js": "/remarkable-react-portfolio/static/js/main.0c5b2b5d.js",
+    "main.js": "/remarkable-react-portfolio/static/js/main.c0468c6c.js",
     "static/media/headshot.jpeg": "/remarkable-react-portfolio/static/media/headshot.58fe74e8d88168091f41.jpeg",
     "static/media/not-bored.png": "/remarkable-react-portfolio/static/media/not-bored.65f60c2651ef19b8373a.png",
     "static/media/portfolio1.png": "/remarkable-react-portfolio/static/media/portfolio1.65b9b98ee8e5facaf83c.png",
@@ -12,10 +12,10 @@
     "static/media/quiz-game.png": "/remarkable-react-portfolio/static/media/quiz-game.3532c58719f09772cd06.png",
     "index.html": "/remarkable-react-portfolio/index.html",
     "main.9b81deb6.css.map": "/remarkable-react-portfolio/static/css/main.9b81deb6.css.map",
-    "main.0c5b2b5d.js.map": "/remarkable-react-portfolio/static/js/main.0c5b2b5d.js.map"
+    "main.c0468c6c.js.map": "/remarkable-react-portfolio/static/js/main.c0468c6c.js.map"
   },
   "entrypoints": [
     "static/css/main.9b81deb6.css",
-    "static/js/main.0c5b2b5d.js"
+    "static/js/main.c0468c6c.js"
   ]
 }
