@@ -17,9 +17,8 @@ function Contact() {
   //Set event handler for SUBMIT contact form
   function handleSubmit(e) {
     e.preventDefault();
-    fetch("/", {
+    fetch("https://formsubmit.co/b65ea808f629cf512710a2a4c0110f38", {
       type: "submit",
-      action: "https://formsubmit.co/chandra_holt@hotmail.com",
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
