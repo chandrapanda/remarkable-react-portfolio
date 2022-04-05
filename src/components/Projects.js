@@ -15,9 +15,11 @@ function Projects() {
             Here are some samples of my work!
           </p>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-4 ">
           {projects.map((project) => (
             <a
+              target="_blank"
+              rel="noreferrer noopener"
               href={project.link}
               key={project.image}
               className="sm:w-1/2 w-100 p-4"
@@ -25,7 +27,7 @@ function Projects() {
               <div className="flex relative">
                 <img
                   alt="gallery"
-                  className="absolute inset-0 w-full h-full object-cover object-center"
+                  className="absolute inset-0 w-full h-full object-cover w-96 object-center rounded-lg"
                   src={project.image}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-800 bg-gray-900 opacity-0 hover:opacity-100">
@@ -36,9 +38,16 @@ function Projects() {
                     {project.title}
                   </h1>
                   <p className="leading-relaxed">{project.description}</p>
-                  <p className="leading-relaxed">{project.repoLink}</p>
                 </div>
               </div>
+              <a
+                target="_blank"
+                rel="noreferrer noopener"
+                href={project.repoLink}
+                className="ml-4 inline-flex text-gray-400 bg-gray-800 py-3 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+              >
+                Project Repository
+              </a>
             </a>
           ))}
         </div>

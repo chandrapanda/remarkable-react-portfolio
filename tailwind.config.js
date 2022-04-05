@@ -2,7 +2,9 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
-      spacing: {},
+      backgroundImage: {
+        "space-pattern": "url('./src/images/background-image.jpg')",
+      },
     },
   },
   plugins: [],
