@@ -19,6 +19,7 @@ function Contact() {
     e.preventDefault();
     fetch("/", {
       method: "POST",
+      url: "http://localhost:3002/send",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
@@ -86,6 +87,8 @@ function Contact() {
               type="text"
               id="name"
               name="name"
+              placeholder="Enter name"
+              required
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               onChange={(e) => setName(e.target.value)}
             />
@@ -98,6 +101,8 @@ function Contact() {
               type="email"
               id="email"
               name="email"
+              placeholder="example@domain.com"
+              required
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               onChange={(e) => setEmail(e.target.value)}
             />
@@ -112,6 +117,8 @@ function Contact() {
             <textarea
               id="message"
               name="message"
+              placeholder="Your message here"
+              required
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
               onChange={(e) => setMessage(e.target.value)}
             />

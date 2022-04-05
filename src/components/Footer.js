@@ -1,5 +1,6 @@
 import { ArrowCircleUpIcon, UserCircleIcon } from "@heroicons/react/solid";
 import React from "react";
+import { SocialIcon } from "react-social-icons";
 
 function Footer() {
   return (
@@ -13,24 +14,42 @@ function Footer() {
     p-4"
     >
       <div className="table-footer-group flex space-x-4">
-        <UserCircleIcon className="mx-auto inline-block w-10 mb-4" />
+        <SocialIcon
+          network="github"
+          bgColor="#4337C9"
+          fgColor="#ffffff"
+          className="mx-auto inline-block w-10 mb-4"
+        />
         <a
+          class="hover:underline"
           href="https://github.com/chandrapanda"
           target="_blank"
           rel="noreferrer noopener"
         >
           GitHub
         </a>
-        <UserCircleIcon className="mx-auto inline-block w-10 mb-4" />
+        <SocialIcon
+          network="linkedin"
+          bgColor="#4337C9"
+          fgColor="#ffffff"
+          className="mx-auto inline-block w-10 mb-4 hover:underline"
+        />
         <a
+          class="hover:underline"
           href="https://www.linkedin.com/in/chandra-holt-1600a25a/"
           target="_blank"
           rel="noreferrer noopener"
         >
           LinkedIn
         </a>
-        <UserCircleIcon className="mx-auto inline-block w-10 mb-4" />
+        <SocialIcon
+          network="twitter"
+          bgColor="#4337C9"
+          fgColor="#ffffff"
+          className="mx-auto inline-block w-10 mb-4"
+        />
         <a
+          class="hover:underline"
           href="https://twitter.com/LaVidaChandra"
           target="_blank"
           rel="noreferrer noopener"
@@ -38,7 +57,7 @@ function Footer() {
           Twitter
         </a>
         <ArrowCircleUpIcon className="mx-auto inline-block w-10 mb-4" />
-        <a href="#about" className="ml-3 text-xl">
+        <a class="hover:underline" href="#about">
           Back to Top
         </a>
       </div>
