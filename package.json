@@ -1,7 +1,7 @@
 {
   "name": "remarkable-react-portfolio.github.io",
   "version": "1.0.0",
-  "homepage": "https://chandrapanda.github.io/my-remarkable-react-portfolio",
+  "homepage": "https://chandrapanda.github.io/remarkable-react-portfolio",
   "private": false,
   "dependencies": {
     "@heroicons/react": "^1.0.6",
