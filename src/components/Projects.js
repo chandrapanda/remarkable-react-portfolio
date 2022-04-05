@@ -12,9 +12,9 @@ function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here are some samples of my work! Click the screenshots to see the
-            description and see the deployed application. Click the button below
-            the image to see the repository for that project.
+            Here are some samples of my work! Click/hover over the screenshots
+            to see the description and see the deployed application. Click the
+            button below the image to see the repository for that project.
           </p>
         </div>
         <div className="flex flex-wrap -m-4 ">
