@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/remarkable-react-portfolio/static/css/main.4a4b3a8f.css",
-    "main.js": "/remarkable-react-portfolio/static/js/main.69ad5e0f.js",
+    "main.css": "/remarkable-react-portfolio/static/css/main.93ccfa8a.css",
+    "main.js": "/remarkable-react-portfolio/static/js/main.44acb76b.js",
     "static/media/headshot.jpeg": "/remarkable-react-portfolio/static/media/headshot.58fe74e8d88168091f41.jpeg",
     "static/media/not-bored.png": "/remarkable-react-portfolio/static/media/not-bored.65f60c2651ef19b8373a.png",
     "static/media/portfolio1.png": "/remarkable-react-portfolio/static/media/portfolio1.65b9b98ee8e5facaf83c.png",
@@ -11,11 +11,11 @@
     "static/media/full-stack-CV.pdf": "/remarkable-react-portfolio/static/media/full-stack-CV.37b63837cd6c069e0ce3.pdf",
     "static/media/quiz-game.png": "/remarkable-react-portfolio/static/media/quiz-game.3532c58719f09772cd06.png",
     "index.html": "/remarkable-react-portfolio/index.html",
-    "main.4a4b3a8f.css.map": "/remarkable-react-portfolio/static/css/main.4a4b3a8f.css.map",
-    "main.69ad5e0f.js.map": "/remarkable-react-portfolio/static/js/main.69ad5e0f.js.map"
+    "main.93ccfa8a.css.map": "/remarkable-react-portfolio/static/css/main.93ccfa8a.css.map",
+    "main.44acb76b.js.map": "/remarkable-react-portfolio/static/js/main.44acb76b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a4b3a8f.css",
-    "static/js/main.69ad5e0f.js"
+    "static/css/main.93ccfa8a.css",
+    "static/js/main.44acb76b.js"
   ]
 }
