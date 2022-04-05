@@ -1,5 +1,5 @@
 {
-  "name": "remarkable-react-portfolio",
+  "name": "remarkable-react-portfolio.github.io",
   "version": "1.0.0",
   "homepage": "https://chandrapanda.github.io/my-remarkable-react-portfolio",
   "private": false,
@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
