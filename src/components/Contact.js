@@ -18,8 +18,9 @@ function Contact() {
   function handleSubmit(e) {
     e.preventDefault();
     fetch("/", {
+      type: "submit",
+      action: "https://formsubmit.co/chandra_holt@hotmail.com",
       method: "POST",
-      url: "http://localhost:3002/send",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
@@ -123,10 +124,7 @@ function Contact() {
               onChange={(e) => setMessage(e.target.value)}
             />
           </div>
-          <button
-            type="submit"
-            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
-          >
+          <button className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
             Submit
           </button>
         </form>
