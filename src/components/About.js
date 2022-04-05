@@ -29,7 +29,7 @@ function About() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img alt="headshot" src={headshot} />
+          <img alt="headshot" className="rounded-lg" src={headshot} />
         </div>
       </div>
     </section>
