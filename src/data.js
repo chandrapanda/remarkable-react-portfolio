@@ -28,13 +28,13 @@ export const projects = [
     link: "https://chandrapanda.github.io/promising-portfolio/",
   },
   {
-    title: "Habit Tracker",
-    subtitle: "JavaScript",
+    title: "MyTeam Stats Tracker",
+    subtitle: "React",
     description:
       "Track your dietary, physical, and mental health by utilizing this habit application! Users can select from a variety of habits and check out their habit history on an intuitive, dynamic chart. This application is deployed to Heroku. To see the application, scroll to LINKS and click the Heroku button!",
-    image: require("./images/habit-tracker.png"),
-    repoLink: "https://github.com/chandrapanda/happy-habit-tracker",
-    link: "https://happy-habit-tracker-app.herokuapp.com/",
+    image: require("./images/myteamstats.png"),
+    repoLink: "https://github.com/thenickedwards/My-Team-Stats-Tracker",
+    link: "https://myteam-stats.herokuapp.com",
   },
   {
     title: "Never Get Bored",
