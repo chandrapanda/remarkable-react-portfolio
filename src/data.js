@@ -67,7 +67,6 @@ export const skills = [
   "React",
   "Material UI",
   "Git",
-  "VS Code",
   "BCrypt",
   "GraphQL",
 ];
