@@ -1,4 +1,4 @@
-import { ArrowCircleUpIcon, UserCircleIcon } from "@heroicons/react/solid";
+import { ArrowCircleUpIcon } from "@heroicons/react/solid";
 import React from "react";
 import { SocialIcon } from "react-social-icons";
 
