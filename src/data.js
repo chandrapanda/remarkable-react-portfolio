@@ -29,9 +29,9 @@ export const projects = [
   },
   {
     title: "MyTeam Stats Tracker",
-    subtitle: "React",
+    subtitle: "React and Material MUI",
     description:
-      "Track your dietary, physical, and mental health by utilizing this habit application! Users can select from a variety of habits and check out their habit history on an intuitive, dynamic chart. This application is deployed to Heroku. To see the application, scroll to LINKS and click the Heroku button!",
+      "Welcome to the myTeam Stats sports stats tracker for youth leagues, adult recreation teams, and school sports! Whether you're a coach of a professional team looking to track the teams and players of a whole league, a player/manager corralling an adult rec team, a rec league admin building a season of teams, or an enthusiastic parent tracking their young athlete's progression through youth sports, myTeam Stats is the best way to manage anything from players on a team to multiple leagues running multiple seasons.",
     image: require("./images/myteamstats.png"),
     repoLink: "https://github.com/thenickedwards/My-Team-Stats-Tracker",
     link: "https://myteam-stats.herokuapp.com",
@@ -65,4 +65,9 @@ export const skills = [
   "MongoDB",
   "MySQL",
   "React",
+  "Material UI",
+  "Git",
+  "VS Code",
+  "BCrypt",
+  "GraphQL",
 ];
