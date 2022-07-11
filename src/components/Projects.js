@@ -24,7 +24,7 @@ function Projects() {
               rel="noreferrer noopener"
               href={project.link}
               key={project.image}
-              className="sm:w-1/2 w-100 p-4"
+              className="w-1/2 p-4"
             >
               <div className="flex relative">
                 <img

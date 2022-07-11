@@ -1,6 +1,15 @@
 // current featured projects from GitHub
 export const projects = [
   {
+    title: "MyTeam Stats Tracker",
+    subtitle: "React and Material MUI",
+    description:
+      "The myTeam Stats sports app tracks stats for youth leagues, adult recreational teams, and school sports! Whether you're a coach, a player, manager, rec league admin, or an enthusiastic parent, myTeam Stats is the best way to manage anything from players, leagues, teams, and seasons.",
+    image: require("./images/myteamstats.png"),
+    repoLink: "https://github.com/thenickedwards/My-Team-Stats-Tracker",
+    link: "https://myteam-stats.herokuapp.com",
+  },
+  {
     title: "Sweater Weather App",
     subtitle: "JavaScript, HTML, CSS, API",
     description:
@@ -26,15 +35,6 @@ export const projects = [
     image: require("./images/portfolio1.png"),
     repoLink: "https://github.com/chandrapanda/promising-portfolio",
     link: "https://chandrapanda.github.io/promising-portfolio/",
-  },
-  {
-    title: "MyTeam Stats Tracker",
-    subtitle: "React and Material MUI",
-    description:
-      "Welcome to the myTeam Stats sports stats tracker for youth leagues, adult recreation teams, and school sports! Whether you're a coach of a professional team looking to track the teams and players of a whole league, a player/manager corralling an adult rec team, a rec league admin building a season of teams, or an enthusiastic parent tracking their young athlete's progression through youth sports, myTeam Stats is the best way to manage anything from players on a team to multiple leagues running multiple seasons.",
-    image: require("./images/myteamstats.png"),
-    repoLink: "https://github.com/thenickedwards/My-Team-Stats-Tracker",
-    link: "https://myteam-stats.herokuapp.com",
   },
   {
     title: "Never Get Bored",
