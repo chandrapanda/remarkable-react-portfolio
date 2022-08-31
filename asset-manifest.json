@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/remarkable-react-portfolio/static/css/main.894ab0a2.css",
-    "main.js": "/remarkable-react-portfolio/static/js/main.d9d01a30.js",
+    "main.css": "/remarkable-react-portfolio/static/css/main.93ccfa8a.css",
+    "main.js": "/remarkable-react-portfolio/static/js/main.4e71f368.js",
     "static/media/headshot.jpeg": "/remarkable-react-portfolio/static/media/headshot.58fe74e8d88168091f41.jpeg",
     "static/media/not-bored.png": "/remarkable-react-portfolio/static/media/not-bored.65f60c2651ef19b8373a.png",
     "static/media/portfolio1.png": "/remarkable-react-portfolio/static/media/portfolio1.65b9b98ee8e5facaf83c.png",
     "static/media/regex.png": "/remarkable-react-portfolio/static/media/regex.3ecb143d57da41cf60f8.png",
     "static/media/myteamstats.png": "/remarkable-react-portfolio/static/media/myteamstats.122a31ad82de6d59d521.png",
     "static/media/weather-app.png": "/remarkable-react-portfolio/static/media/weather-app.3ce58ffa163ae316cd0c.png",
-    "static/media/full-stack-CV.pdf": "/remarkable-react-portfolio/static/media/full-stack-CV.37b63837cd6c069e0ce3.pdf",
+    "static/media/full-stack-CV.pdf": "/remarkable-react-portfolio/static/media/full-stack-CV.297a6e0fc48754a91962.pdf",
     "static/media/quiz-game.png": "/remarkable-react-portfolio/static/media/quiz-game.3532c58719f09772cd06.png",
     "index.html": "/remarkable-react-portfolio/index.html",
-    "main.894ab0a2.css.map": "/remarkable-react-portfolio/static/css/main.894ab0a2.css.map",
-    "main.d9d01a30.js.map": "/remarkable-react-portfolio/static/js/main.d9d01a30.js.map"
+    "main.93ccfa8a.css.map": "/remarkable-react-portfolio/static/css/main.93ccfa8a.css.map",
+    "main.4e71f368.js.map": "/remarkable-react-portfolio/static/js/main.4e71f368.js.map"
   },
   "entrypoints": [
-    "static/css/main.894ab0a2.css",
-    "static/js/main.d9d01a30.js"
+    "static/css/main.93ccfa8a.css",
+    "static/js/main.4e71f368.js"
   ]
 }
