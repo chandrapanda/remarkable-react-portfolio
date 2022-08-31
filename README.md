@@ -1,5 +1,7 @@
 # Remarkable React Portfolio
 
+Check out my latest portfolio, built with React!
+
 [Deployed Application](https://chandrapanda.github.io/remarkable-react-portfolio/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
