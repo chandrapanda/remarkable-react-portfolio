@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/remarkable-react-portfolio/static/css/main.766431d4.css",
-    "main.js": "/remarkable-react-portfolio/static/js/main.8e3d7e94.js",
-    "static/media/headshot.jpeg": "/remarkable-react-portfolio/static/media/headshot.58fe74e8d88168091f41.jpeg",
+    "main.js": "/remarkable-react-portfolio/static/js/main.e638e6a7.js",
     "static/media/not-bored.png": "/remarkable-react-portfolio/static/media/not-bored.65f60c2651ef19b8373a.png",
     "static/media/portfolio1.png": "/remarkable-react-portfolio/static/media/portfolio1.65b9b98ee8e5facaf83c.png",
+    "static/media/headshot8.jpg": "/remarkable-react-portfolio/static/media/headshot8.6e9ed5afd9644a3ece21.jpg",
     "static/media/regex.png": "/remarkable-react-portfolio/static/media/regex.3ecb143d57da41cf60f8.png",
     "static/media/myteamstats.png": "/remarkable-react-portfolio/static/media/myteamstats.122a31ad82de6d59d521.png",
     "static/media/weather-app.png": "/remarkable-react-portfolio/static/media/weather-app.3ce58ffa163ae316cd0c.png",
@@ -12,10 +12,10 @@
     "static/media/full-stack-CV.pdf": "/remarkable-react-portfolio/static/media/full-stack-CV.c70308e49d8a3c72cdc3.pdf",
     "index.html": "/remarkable-react-portfolio/index.html",
     "main.766431d4.css.map": "/remarkable-react-portfolio/static/css/main.766431d4.css.map",
-    "main.8e3d7e94.js.map": "/remarkable-react-portfolio/static/js/main.8e3d7e94.js.map"
+    "main.e638e6a7.js.map": "/remarkable-react-portfolio/static/js/main.e638e6a7.js.map"
   },
   "entrypoints": [
     "static/css/main.766431d4.css",
-    "static/js/main.8e3d7e94.js"
+    "static/js/main.e638e6a7.js"
   ]
 }
