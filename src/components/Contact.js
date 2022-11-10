@@ -57,7 +57,7 @@ function Contact() {
                 href="mailto:chandra_holt@hotmail.com"
                 className="text-indigo-400 leading-relaxed"
               >
-                chandra_holt@hotmail.com
+                *HIDDEN*
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE

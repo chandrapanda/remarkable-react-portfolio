@@ -16,7 +16,7 @@ function CV() {
             download="ChandraCV"
             className="w-1/3 border-8 border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:py-4 md:text-lg md:px-10"
           >
-            Download my CV (updated August 2022)
+            Download my CV (updated November 2022)
           </a>
         </div>
       </div>
